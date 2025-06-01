@@ -42,3 +42,28 @@ Este repositorio contiene ejercicios prácticos desarrollados por **Santiago Bar
 
 ```bash
 git clone https://github.com/Santiagobc53/Python-University-of-Michigan-.git
+
+
+---
+
+## 🧑🏻‍💻 Sobre mí
+
+Soy **Santiago Barrera**, tecnólogo industrial en transición profesional hacia la tecnología, con formación y proyectos en:
+
+- 🐍 Python y automatización
+- 📊 Análisis de datos (pandas, Matplotlib, Plotly)
+- 🌐 Desarrollo web (HTML, CSS, JavaScript)
+- 🎯 Disciplina, pensamiento lógico y enfoque en resultados
+
+Aplico en programación la misma resiliencia y enfoque que me formaron como deportista de alto rendimiento.
+
+🟢 Actualmente en búsqueda de oportunidades junior en:
+> Python • Análisis de datos • Automatización de procesos • Back-end
+
+---
+
+## 💬 Contacto
+
+📧 santiagobarrera.dev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/santiagobarrera)  
+🔗 [GitHub](https://github.com/Santiagobc53)
